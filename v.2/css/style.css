@@ -60,7 +60,9 @@ p {
 /* Header Container */
 .header-container {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  padding-left: 5.2rem;
+  padding-right: 5.2rem;
   align-items: center;
   text-align: center;
 }
@@ -396,6 +398,7 @@ p {
 .StarTrek {
   background-image: url("https://m.media-amazon.com/images/M/MV5BNDRkMTNiNjgtZDIyOC00NmE1LTlkZjEtMGZiNTcyZDQ0NjcxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg");
 }
+
 
 /* scrollbar*/
 
